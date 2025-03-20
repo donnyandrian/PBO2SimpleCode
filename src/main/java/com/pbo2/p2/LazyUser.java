@@ -1,4 +1,4 @@
-package com.pbo2;
+package com.pbo2.p2;
 
 /// Objek tercipta saat pertama kali digunakan.
 public class LazyUser {

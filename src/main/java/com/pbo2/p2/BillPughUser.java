@@ -1,4 +1,4 @@
-package com.pbo2;
+package com.pbo2.p2;
 
 /// Memanfaatkan inner static class sebagai holder untuk menampung singleton object. 
 public class BillPughUser {

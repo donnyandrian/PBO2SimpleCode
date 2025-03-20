@@ -1,4 +1,4 @@
-package com.pbo2;
+package com.pbo2.p2;
 
 /// Menambahkan synchronized block
 /// sehingga setiap beberapa thread yang mengakses objek yang sama pertama kali

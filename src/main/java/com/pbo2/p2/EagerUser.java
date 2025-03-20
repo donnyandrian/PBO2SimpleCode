@@ -1,4 +1,4 @@
-package com.pbo2;
+package com.pbo2.p2;
 
 /// Objek dibuat menjadi constant, final, dan tread-safe,
 /// sehingga objek yang dibuat sedari awal
