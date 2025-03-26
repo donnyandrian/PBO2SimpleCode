@@ -16,6 +16,9 @@ public class Quiz2 {
         warna.add("BLUE");
         warna.add("CYAN");
 
+        // Alternative:
+        // warna.addAll(Arrays.asList("MAGENTA", "RED", "WHITE", "BLUE", "CYAN"));
+
         // Print warna awal
         System.out.println("WARNA: ");
         System.out.println(warna + "\n");
@@ -24,6 +27,9 @@ public class Quiz2 {
         warnaDihapus.add("RED");
         warnaDihapus.add("WHITE");
         warnaDihapus.add("BLUE");
+
+        // Alternative:
+        // warnaDihapus.addAll(Arrays.asList("RED", "WHITE", "BLUE"));
 
         // Print warna yang ingin dihapus
         System.out.println("Warna yang dihapus: ");
