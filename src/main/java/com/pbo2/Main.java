@@ -1,9 +1,9 @@
 package com.pbo2;
 
-import com.pbo2.p3.*;
+import com.pbo2.p4.*;
 
 public class Main {
     public static void main(String[] args) {
-        Quiz2._main(args);
+        Latihan14._main(args);
     }
 }
